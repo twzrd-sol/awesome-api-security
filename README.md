@@ -253,6 +253,7 @@ Name | Author | Description |
 | Name | Description |
 | ---- | ----------- |
 | [awesome-security-apis](https://github.com/jaegeral/security-apis)| A collective list of public JSON APIs for use in security. |
+| [TWZRD Agent Intel MCP](https://intel.twzrd.xyz) | On-chain trust scoring for AI agent wallets on Solana. MCP server (, ) — verify agent identity before authorizing x402 micropayment-gated API access. Free + paid trust receipts. [MCP](https://intel.twzrd.xyz/mcp) |
 
 ## API Description Specifications
 | Name | Description |
